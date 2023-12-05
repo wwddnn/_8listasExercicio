@@ -5,4 +5,4 @@
 - Linguagem Java
 - IDE InteliJ
 - Lógica de programação
-- Vetores
+- Listas em Java
